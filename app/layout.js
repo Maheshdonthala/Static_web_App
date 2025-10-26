@@ -4,7 +4,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Sri Modhakondamma Madugula Halwa',
-  description: 'Handmade halva and sweets',
+  description: 'Handmade halwa and sweets',
 };
 
 export default function RootLayout({ children }) {
