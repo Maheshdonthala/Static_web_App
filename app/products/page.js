@@ -2,9 +2,9 @@ import ProductCard from '../../components/ProductCard';
 
 const products = [
   { id: 1, name: 'Classic Halwa', price: '₹600', img: '/Classic-halwa.jpg' },
-  { id: 2, name: 'Sugar Halwa', price: '₹650', img: '/sugar-halwa.jpg' },
-  { id: 3, name: 'Bellam/Jaggery Halwa', price: '₹800', img: '/Bellam-halwa.jpg' },
-  { id: 4, name: 'Special Dry-fruits Halwa', price: '₹1000', img: '/Dry-fruits-halwa.jpg' },
+  { id: 2, name: 'Sugar Halwa', price: '₹550', img: '/sugar-halwa.jpg' },
+  { id: 3, name: 'Bellam/Jaggery Halwa', price: '₹600', img: '/Bellam-halwa.jpg' },
+  { id: 4, name: 'Special Dry-fruits Halwa', price: '₹850', img: '/Dry-fruits-halwa.jpg' },
 ];
 
 export default function ProductsPage() {
