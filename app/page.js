@@ -5,6 +5,7 @@ export default function HomePage() {
         <div>
           <h1 className="text-4xl font-bold mb-4">Sri Modhakondamma Madugula Halwa</h1>
           <p className="text-lg text-gray-600 mb-6">Traditional handmade halva, crafted with love and the finest ingredients.</p>
+          <p className="text-lg text-black-600 mb-6">Karanam Vamsi</p>
           <a href="/products" className="inline-block bg-orange-500 text-white px-4 py-2 rounded">See Products</a>
         </div>
         <div>
