@@ -1,3 +1,0 @@
-module.exports=[62292,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(64659);a.n(d("[project]/halva-sweets-website/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},26910,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(64659);a.n(d("[project]/halva-sweets-website/node_modules/next/dist/client/components/builtin/global-error.js"))},97737,a=>{"use strict";a.i(62292);var b=a.i(26910);a.n(b)}];
-
-//# sourceMappingURL=245df_next_dist_client_components_builtin_global-error_3278bea7.js.map

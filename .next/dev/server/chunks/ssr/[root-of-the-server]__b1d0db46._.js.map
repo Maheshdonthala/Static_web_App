@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/91630/OneDrive/Desktop/Jspider/Food_project/halva-sweets-website/app/page.js"],"sourcesContent":["export default function HomePage() {\r\n  return (\r\n    <section className=\"container py-12\">\r\n      <div className=\"grid md:grid-cols-2 gap-8 items-center\">\r\n        <div>\r\n          <h1 className=\"text-4xl font-bold mb-4\">Sri Modhakondamma Madugula Halwa</h1>\r\n          <p className=\"text-lg text-gray-600 mb-6\">Traditional handmade halva, crafted with love and the finest ingredients.</p>\r\n          <a href=\"/products\" className=\"inline-block bg-orange-500 text-white px-4 py-2 rounded\">See Products</a>\r\n        </div>\r\n        <div>\r\n          <img src=\"/halva-hero.png\" alt=\"halva hero\" className=\"rounded shadow\" />\r\n        </div>\r\n      </div>\r\n    </section>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,4QAAC;QAAQ,WAAU;kBACjB,cAAA,4QAAC;YAAI,WAAU;;8BACb,4QAAC;;sCACC,4QAAC;4BAAG,WAAU;sCAA0B;;;;;;sCACxC,4QAAC;4BAAE,WAAU;sCAA6B;;;;;;sCAC1C,4QAAC;4BAAE,MAAK;4BAAY,WAAU;sCAA0D;;;;;;;;;;;;8BAE1F,4QAAC;8BACC,cAAA,4QAAC;wBAAI,KAAI;wBAAkB,KAAI;wBAAa,WAAU;;;;;;;;;;;;;;;;;;;;;;AAKhE","debugId":null}}]
-}
